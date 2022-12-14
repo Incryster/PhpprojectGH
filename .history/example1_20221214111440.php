@@ -6,10 +6,6 @@
 		h1 {
 			color: yellowgreen;
 		}
-
-		h3 {
-			color: red;
-		}
 	</style>
 </head>
 
@@ -25,11 +21,9 @@
        
 		<h3>
 			<?php
-            echo "I can fix it!!";
+            echo "I can fix it!";
 			?>
 		</h3>
-
-		
 	</center>
 </body>
 

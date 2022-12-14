@@ -4,11 +4,7 @@
 <head>
 	<style>
 		h1 {
-			color: yellowgreen;
-		}
-
-		h3 {
-			color: red;
+			color: green;
 		}
 	</style>
 </head>
@@ -22,12 +18,6 @@
             echo "This is PHP code inside html" . "<br> new text added?";
 			?>
 		</h2>
-       
-		<h3>
-			<?php
-            echo "I can fix it!!";
-			?>
-		</h3>
 
 		
 	</center>

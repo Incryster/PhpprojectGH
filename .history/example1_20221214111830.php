@@ -28,8 +28,6 @@
             echo "I can fix it!!";
 			?>
 		</h3>
-
-		
 	</center>
 </body>
 
