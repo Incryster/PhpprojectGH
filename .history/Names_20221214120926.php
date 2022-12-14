@@ -7,6 +7,6 @@
     <title>Time</title>
 </head>
 <body>
-    <?= date('h:i:s');?>
+   
 </body>
 </html>
