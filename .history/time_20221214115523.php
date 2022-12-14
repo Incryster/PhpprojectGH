@@ -10,7 +10,7 @@
     <?php
     echo date('h:i:s');
 
-    echo "hello";
+    echo "hello"
     ?>
 </body>
 </html>
