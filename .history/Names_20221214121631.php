@@ -1,5 +1,5 @@
 <?php
-   $name = ['james','michel','jhon','Abhi'];
+$names = ['james', 'arun', 'abhi'];
 ?>
 
 
@@ -10,15 +10,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Names</title>
 </head>
-<body class="">
-    <h1>Names</h1>
+<body>
+   <h1>Names</h1>
     <ul>
-        <?php foreach($name as $name){?>
-            <li><?=$name ?></li>
-            <?php }?>
+  <?php?>
     </ul>
-    
 </body>
 </html>
